@@ -1,0 +1,4 @@
+# Type files
+
+*.html linguist-language=Python
+*.Rmd linguist-language=Python
