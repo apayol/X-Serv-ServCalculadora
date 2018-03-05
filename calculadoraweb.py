@@ -3,7 +3,7 @@
 import webapp
 import calculadora
 
-#GET /1/suma/2 ....
+#GET /1/suma/2 ...
 
 class calculadoraweb(webapp.webApp):
 
