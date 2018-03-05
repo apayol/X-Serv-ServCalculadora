@@ -1,4 +1,3 @@
 # Type files
 
-*.html linguist-language=Python
-*.Rmd linguist-language=Python
+*.rb linguist-language=Python
